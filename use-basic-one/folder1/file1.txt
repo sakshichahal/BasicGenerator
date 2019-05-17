@@ -1,0 +1,2 @@
+A new file inside a folder created.
+--Templating Yeoman Generators--
